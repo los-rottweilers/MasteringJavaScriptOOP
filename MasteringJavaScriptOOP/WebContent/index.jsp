@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>Mastering JavaScript OOP</title>
 </head>
 <body>
 
